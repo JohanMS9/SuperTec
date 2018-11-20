@@ -13,39 +13,39 @@
                     <div class="form-row">
                         <div class="form-group col-md-6">
                             <label for="Nombre">Nombre Completo</label>
-                            <input type="name" class="form-control" id="Nombre" placeholder="Nombre Completo">
+                            <input type="text" class="form-control" name="nombre" id="Nombre" placeholder="Nombre Completo">
                         </div>
                         <div class="form-group col-md-6">
                             <label for="Rut">Rut</label>
-                            <input type="Rut" class="form-control" id="Rut" placeholder="Rut">
+                            <input type="text" class="form-control" name="rut" id="Rut" placeholder="Rut">
                         </div>
                         <div class="form-group col-md-6">
                             <label for="Especialidad">Especialidad</label>
-                            <select id="inputState" class="form-control">
+                            <select name="select" id="inputState" class="form-control">
                                 <option selected>Tecnico Informatico</option>
                                 <option>Tecnico Electronico</option>
                             </select>
                         </div>
                         <div class="form-group col-md-6">
                             <label for="Nick">Nick Name</label>
-                            <input type="Nick" class="form-control" id="Nick" placeholder="Nick">
+                            <input type="text" class="form-control" name="nick" id="Nick" placeholder="Nick">
                         </div>
 
                         <div class="form-group col-md-6">
                             <label for="inputPassword4">Contraseña</label>
-                            <input type="password" class="form-control" id="inputPassword4" placeholder="Password">
+                            <input type="password" class="form-control" name="pass" id="inputPassword4" placeholder="Password">
                         </div>
                         <div class="form-group col-md-6">
                             <label for="inputEmail4">Correo Electronico</label>
-                            <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+                            <input type="email" class="form-control" name="email" id="inputEmail4" placeholder="Email">
                         </div>
                         <div class="form-group col-md-2">
                             <label for="FechaNacimiento">Fecha Nacimiento</label>
-                            <input type="text" class="form-control" id="FechaNacimiento" placeholder="11-03-1994">
+                            <input type="text" class="form-control" name="nacimiento" id="FechaNacimiento" placeholder="11-03-1994">
                         </div>
                         <div class="form-group col-md-2">
                             <label for="Telefono">Telefono</label>
-                            <input type="text" class="form-control" id="Telefono" placeholder="930682266">
+                            <input type="text" class="form-control" name="fono" id="Telefono" placeholder="930682266">
                         </div>
                     </div>
 
