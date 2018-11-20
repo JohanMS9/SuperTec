@@ -67,15 +67,8 @@
                             <input type="text" class="form-control" name="direccion"id="direccionLocal">
                         </div>
                     </div>
-                    <div class="form-group">
-                        <div class="form-check">
-                            <input class="form-check-input" type="checkbox" name="check"id="gridCheck">
-                            <label class="form-check-label" for="gridCheck">
-                                Check me out
-                            </label>
-                        </div>
-                    </div>
-                    <button type="submit" class="btn btn-primary">Registrarme</button>
+               
+                    <button type="submit" class="btn btn-primary">Guardar</button>
                 </form>
             </div>
         </section>
