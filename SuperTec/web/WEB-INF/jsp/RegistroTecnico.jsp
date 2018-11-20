@@ -53,29 +53,29 @@
                     <div class="form-row">
                         <div class="form-group col-md-6">
                             <label for="NombreLocal">Nombre de Local</label>
-                            <input type="text" class="form-control" id="NombreLocal">
+                            <input type="text" class="form-control" name="local" id="NombreLocal">
                         </div>
                         <div class="form-group col-md-4">
                             <label for="Comuna">Comuna</label>
-                            <select id="Comuna" class="form-control">
+                            <select name="comuna" id="Comuna" class="form-control">
                                 <option selected>Puerto Montt</option>
                                 <option>Ancud</option>
                             </select>
                         </div>
                         <div class="form-group col-md-6">
                             <label for="direccionLocal">Direccion del local</label>
-                            <input type="text" class="form-control" id="direccionLocal">
+                            <input type="text" class="form-control" name="direccion"id="direccionLocal">
                         </div>
                     </div>
                     <div class="form-group">
                         <div class="form-check">
-                            <input class="form-check-input" type="checkbox" id="gridCheck">
+                            <input class="form-check-input" type="checkbox" name="check"id="gridCheck">
                             <label class="form-check-label" for="gridCheck">
                                 Check me out
                             </label>
                         </div>
                     </div>
-                    <button type="Registrarme" class="btn btn-primary">Registrarme</button>
+                    <button type="submit" class="btn btn-primary">Registrarme</button>
                 </form>
             </div>
         </section>
