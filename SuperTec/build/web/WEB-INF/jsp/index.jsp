@@ -8,7 +8,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>Creative - Start Bootstrap Theme</title>
+        <title>Pagina web SuperTec</title>
 
         <!-- Bootstrap core CSS -->
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -31,26 +31,26 @@
         <!-- Navigation -->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
+                <a class="navbar-brand js-scroll-trigger" href="#page-top">SuperTEC</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#about">About</a>
+                            <a class="nav-link js-scroll-trigger" href="#about">Conoce mas sobre nosotros</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#services">Services</a>
+                            <a class="nav-link js-scroll-trigger" href="#services">Nuestros servicios</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+                            <a class="nav-link js-scroll-trigger" href="#portfolio">Tecnicos destacados 2018</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#contact">Registro</a>
+                            <a class="nav-link js-scroll-trigger" href="#contact">Registro Tecnico</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#cliente">Registrar Cliente</a>
+                            <a class="nav-link js-scroll-trigger" href="#cliente">Registro Cliente</a>
                         </li>
                     </ul>
                 </div>
@@ -62,13 +62,13 @@
                 <div class="row">
                     <div class="col-lg-10 mx-auto">
                         <h1 class="text-uppercase">
-                            <strong>Your Favorite Source of Free Bootstrap Themes</strong>
+                            <strong>SuperTec AHORA EN TODA LA X REGIÓN</strong>
                         </h1>
                         <hr>
                     </div>
                     <div class="col-lg-8 mx-auto">
-                        <p class="text-faded mb-5">Start Bootstrap can help you build better websites using the Bootstrap CSS framework! Just download your template and start going, no strings attached!</p>
-                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">Find Out More</a>
+                        <p class="text-faded mb-5">Este 2018 queremos enviar un enorme abrazo a nuestros tecnicos informaticos y a todas las personas que de alguna u otra forma han formado parte de SuperTec durante el 2018!</p>
+                        <a class="btn btn-primary btn-xl js-scroll-trigger" href="#about">LOGIN</a>
                     </div>
                 </div>
             </div>
@@ -78,9 +78,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 mx-auto text-center">
-                        <h2 class="section-heading text-white">We've got what you need!</h2>
+                        <h2 class="section-heading text-white">¿Quienes somos?</h2>
                         <hr class="light my-4">
-                        <p class="text-faded mb-4">Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!</p>
+                        <p class="text-faded mb-4">Somos una pagina web la cual pretende soluciones a las personas con problemas ligado a la informatica, de igual manera nuestra mision es darle una oportunidad a los tecnicos informaticos a ofrecer sus servicios y de esa manera hacerse conocido gracias a sus servicios como tal.</p>
                         <a class="btn btn-light btn-xl js-scroll-trigger" href="#services">Get Started!</a>
                     </div>
                 </div>
@@ -91,7 +91,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12 text-center">
-                        <h2 class="section-heading">At Your Service</h2>
+                        <h2 class="section-heading">¿Que ofrece SuperTec?</h2>
                         <hr class="my-4">
                     </div>
                 </div>
@@ -101,29 +101,29 @@
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="service-box mt-5 mx-auto">
                             <i class="fas fa-4x fa-gem text-primary mb-3 sr-icon-1"></i>
-                            <h3 class="mb-3">Sturdy Templates</h3>
-                            <p class="text-muted mb-0">Our templates are updated regularly so they don't break.</p>
+                            <h3 class="mb-3">¿Cual es nuestra intención?</h3>
+                            <p class="text-muted mb-0">Nuestra intencion es buscarle una solucion a tu problema informatico</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="service-box mt-5 mx-auto">
                             <i class="fas fa-4x fa-paper-plane text-primary mb-3 sr-icon-2"></i>
-                            <h3 class="mb-3">Ready to Ship</h3>
-                            <p class="text-muted mb-0">You can use this theme as is, or you can make changes!</p>
+                            <h3 class="mb-3">¿Como lo haremos?</h3>
+                            <p class="text-muted mb-0">Te buscaremos un tecnico acorde a problema ligado a la tecnologia</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="service-box mt-5 mx-auto">
                             <i class="fas fa-4x fa-code text-primary mb-3 sr-icon-3"></i>
-                            <h3 class="mb-3">Up to Date</h3>
-                            <p class="text-muted mb-0">We update dependencies to keep things fresh.</p>
+                            <h3 class="mb-3">¿Que zonas abarcamos?</h3>
+                            <p class="text-muted mb-0">Abarcamos los problemas de las personas de toda la X región</p>
                         </div>
                     </div>
                     <div class="col-lg-3 col-md-6 text-center">
                         <div class="service-box mt-5 mx-auto">
                             <i class="fas fa-4x fa-heart text-primary mb-3 sr-icon-4"></i>
-                            <h3 class="mb-3">Made with Love</h3>
-                            <p class="text-muted mb-0">You have to make your websites with love these days!</p>
+                            <h3 class="mb-3">Te hacemos la invitacion </h3>
+                            <p class="text-muted mb-0">Forma parte de nuestra pagina web y soluciona tus problemas informaticos o SOLUCIONALOS!</p>
                         </div>
                     </div>
                 </div>
@@ -134,7 +134,7 @@
             <div class="container-fluid p-0">
                 <div class="row no-gutters popup-gallery">
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="img/portfolio/fullsize/1.jpg">
+                        <a class="portfolio-box" href="img/portfolio/thumbnails/1.jpg">
                             <img class="img-fluid" src="img/portfolio/thumbnails/1.jpg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
@@ -149,7 +149,7 @@
                         </a>
                     </div>
                     <div class="col-lg-4 col-sm-6">
-                        <a class="portfolio-box" href="img/portfolio/fullsize/2.jpg">
+                        <a class="portfolio-box" href="img/portfolio/thumbnails/2.jpg">
                             <img class="img-fluid" src="img/portfolio/thumbnails/2.jpg" alt="">
                             <div class="portfolio-box-caption">
                                 <div class="portfolio-box-caption-content">
