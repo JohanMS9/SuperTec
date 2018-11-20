@@ -49,6 +49,9 @@
                         <li class="nav-item">
                             <a class="nav-link js-scroll-trigger" href="#contact">Registro</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link js-scroll-trigger" href="#cliente">Registrar Cliente</a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -234,7 +237,10 @@
         <section id="contact">
             <jsp:include page="RegistroTecnico.jsp" flush="true"/>
         </section>
-
+        
+        <section id="cliente">
+            <jsp:include page="RegistroCliente.jsp" flush="true"/>
+        </section>
         <!-- Bootstrap core JavaScript -->
         <script src="vendor/jquery/jquery.min.js"></script>
         <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
