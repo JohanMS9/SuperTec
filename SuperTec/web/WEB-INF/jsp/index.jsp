@@ -234,10 +234,6 @@
             </div>
         </section>
 
-        <section id="contact">
-            <jsp:include page="RegistroTecnico.jsp" flush="true"/>
-        </section>
-        
        
         <!-- Bootstrap core JavaScript -->
         <script src="vendor/jquery/jquery.min.js"></script>

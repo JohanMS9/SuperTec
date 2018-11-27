@@ -23,6 +23,8 @@
                 <prop key="admin.htm">adminController</prop>
                 <prop key="login.htm">loginController</prop>
                 <prop key="registroCliente.htm">clienteController</prop>
+                <prop key="registroTecnico.htm">tecnicoController</prop>
+                 <prop key="registroComuna.htm">comunaController</prop>
             </props>
         </property>
     </bean>
@@ -44,6 +46,9 @@
      <bean name="loginController" class="ControladoreSpring.loginController" />
     <!-- cliente Controller-->
      <bean name="clienteController" class="ControladoreSpring.clienteController" />
-    
+     <!-- tecnico Controller-->
+     <bean name="tecnicoController" class="ControladoreSpring.tecnicoController" />
+    <!-- comuna Controller-->
+     <bean name="comunaController" class="ControladoreSpring.comunaController" />
 
 </beans>
