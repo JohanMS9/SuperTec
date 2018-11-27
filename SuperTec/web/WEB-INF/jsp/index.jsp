@@ -50,7 +50,7 @@
                             <a class="nav-link js-scroll-trigger" href="#contact">Registro Tecnico</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link js-scroll-trigger" href="#cliente">Registro Cliente</a>
+                            <a class="nav-link js-scroll-trigger" href="login.htm">Login</a>
                         </li>
                     </ul>
                 </div>
@@ -238,9 +238,7 @@
             <jsp:include page="RegistroTecnico.jsp" flush="true"/>
         </section>
         
-        <section id="cliente">
-            <jsp:include page="RegistroCliente.jsp" flush="true"/>
-        </section>
+       
         <!-- Bootstrap core JavaScript -->
         <script src="vendor/jquery/jquery.min.js"></script>
         <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

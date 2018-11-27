@@ -21,6 +21,8 @@
             <props>
                 <prop key="index.htm">indexController</prop>
                 <prop key="admin.htm">adminController</prop>
+                <prop key="login.htm">loginController</prop>
+                <prop key="registroCliente.htm">clienteController</prop>
             </props>
         </property>
     </bean>
@@ -34,8 +36,14 @@
     The index controller.
     -->
      <bean name="adminController" class="ControladoreSpring.adminController" />
+    
     <bean name="indexController"
           class="org.springframework.web.servlet.mvc.ParameterizableViewController"
           p:viewName="index" />
+     <!-- login Controller-->
+     <bean name="loginController" class="ControladoreSpring.loginController" />
+    <!-- cliente Controller-->
+     <bean name="clienteController" class="ControladoreSpring.clienteController" />
+    
 
 </beans>
